@@ -49,7 +49,7 @@ Unlike the original mod, which was made for a game intended for keyboard only, t
 
 ## Patterns
 
-A new `#picker` pattern type has been added that is not present in the Java mod to bring the ease of the pattern picker tool to custom commands, reducing the need to manually type out block names. See [Picker pattern](usage/general/patterns.md) for more info.
+A new `#picker` pattern type has been added that is not present in the Java mod to bring the ease of the pattern picker tool to custom commands, reducing the need to manually type out block names. See [Picker pattern](usage/general/patterns.md#picker-pattern) for more info.
 
 ## Exporting Structures and Setting Biomes
 
