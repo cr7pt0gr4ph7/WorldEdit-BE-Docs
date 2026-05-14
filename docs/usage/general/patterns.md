@@ -77,7 +77,17 @@ Want to quickly use a block without having to type it in? Use `#hand` to use the
 
 ### Picker Pattern
 
-With `#picker` you can reference the block types selected via the pattern picker tool in custom commands.
+Want to quickly reference the blocks you have already selected via the pattern picker tool? Use `#picker` instead of manually typing out the block IDs. This also enables custom [brushes](../brushes.md) to behave like the built-in Fill Selection tool from the [Kit](../kit.md), and allows you to quickly change the pattern on the fly.
+
+!!! Example
+
+    `;replace grass #picker`
+
+    This replaces grass blocks with the blocks selected by the pattern picker.
+
+    `;material #picker`
+
+    Configure the current [Brush](../brushes.md) to always use the blocks selected by the pattern picker.
 
 ### Void Pattern
 
