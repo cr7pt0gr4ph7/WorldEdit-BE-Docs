@@ -75,6 +75,10 @@ Some patterns you want can get too complex to type. With `#clipboard` though, yo
 
 Want to quickly use a block without having to type it in? Use `#hand` to use the block in your main hand as your pattern. So if you were to hold sponge for instance, your pattern will contain sponge.
 
+### Picker Pattern
+
+With `#picker` you can reference the block types selected via the pattern picker tool in custom commands.
+
 ### Void Pattern
 
 A `void` pattern doesn't place any block. Seems pretty useless by itself, but it can be combined with other patterns to only affect certain parts of a region. For instance, `;set grass,void` will only affect half of the blocks in the selection.
