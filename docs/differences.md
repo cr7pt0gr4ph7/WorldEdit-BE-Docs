@@ -47,6 +47,10 @@ One thing this has over the Java mod, is the ability to see selections, and not 
 
 Unlike the original mod, which was made for a game intended for keyboard only, this addon is made for all kinds of devices. The purpose of the kit, which you can get with `;kit`, is to be able to use WorldEdit's more common features more easily. See [Kit](usage/kit.md) for more info.
 
+## Patterns
+
+A new `#picker` pattern type has been added that is not present in the Java mod to bring the ease of the pattern picker tool to custom commands, reducing the need to manually type out block names. See [Picker pattern](usage/general/patterns.md) for more info.
+
 ## Exporting Structures and Setting Biomes
 
 Exporting structures to other worlds, and setting biome data cannot be done within Minecraft. An [external application](usage/worldedit_app.md) is required to make this happen.
